@@ -1,0 +1,5 @@
+index in contrast with other pages has its container fluid located
+in another file as for the index page will be the same but for the other pages 
+is different and most times will have and different functionality.
+now on the header.php we include the ob_start() function which enables us to ob_start
+the output buffering as later we are going to use redirection among our pages...  
